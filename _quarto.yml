@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: cosmos
     css: styles.css
     toc: true
 
